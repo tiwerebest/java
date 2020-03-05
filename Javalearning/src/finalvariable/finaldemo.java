@@ -2,7 +2,7 @@ package finalvariable;
 
 public class finaldemo {
 
-	final int speed=40;
+	int speed=40;
 	
 	
 	
